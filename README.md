@@ -1,36 +1,25 @@
-# Zed
+# Fun side project to tweek Zed and create Rainiac
+![alt text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fd52d3a7-16d5-4ae5-a900-2ddb238ff7fb/dbho2be-f0c3bb5d-2f8f-4d54-a294-c7431b333892.png/v1/fill/w_1600,h_1600/injustice_2_brainiac_symbol_by_deathcantrell_dbho2be-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcL2ZkNTJkM2E3LTE2ZDUtNGFlNS1hOTAwLTJkZGIyMzhmZjdmYlwvZGJobzJiZS1mMGMzYmI1ZC0yZjhmLTRkNTQtYTI5NC1jNzQzMWIzMzM4OTIucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.cqu3w7zmk8qsc-3w2SOwN6wUjzTgKbBLTb5akWmUl7g)
 
-[![CI](https://github.com/zed-industries/zed/actions/workflows/ci.yml/badge.svg)](https://github.com/zed-industries/zed/actions/workflows/ci.yml)
 
-Welcome to Zed, a high-performance, multiplayer code editor from the creators of [Atom](https://github.com/atom/atom) and [Tree-sitter](https://github.com/tree-sitter/tree-sitter).
+
+Welcome to Rainiac, a high-performance, multiplayer code creator
 
 ---
 
-### Installation
 
-<a href="https://repology.org/project/zed-editor/versions">
-    <img src="https://repology.org/badge/vertical-allrepos/zed-editor.svg?minversion=0.143.5" alt="Packaging status" align="right">
-</a>
 
-On macOS and Linux you can [download Zed directly](https://zed.dev/download) or [install Zed via your local package manager](https://zed.dev/docs/linux#installing-via-a-package-manager).
+### Developing Rainiac
 
-Other platforms are not yet available:
-
-- Windows ([tracking issue](https://github.com/zed-industries/zed/issues/5394))
-- Web ([tracking issue](https://github.com/zed-industries/zed/issues/5396))
-
-### Developing Zed
-
-- [Building Zed for macOS](./docs/src/development/macos.md)
-- [Building Zed for Linux](./docs/src/development/linux.md)
-- [Building Zed for Windows](./docs/src/development/windows.md)
+- [Building Rainiac for macOS](./docs/src/development/macos.md)
+- [Building Rainiac for Linux](./docs/src/development/linux.md)
+- [Building Rainiac for Windows](./docs/src/development/windows.md)
 - [Running Collaboration Locally](./docs/src/development/local-collaboration.md)
 
 ### Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for ways you can contribute to Zed.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for ways you can contribute to Rainiac.
 
-Also... we're hiring! Check out our [jobs](https://zed.dev/jobs) page for open roles.
 
 ### Licensing
 
